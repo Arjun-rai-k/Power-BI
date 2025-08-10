@@ -1,4 +1,4 @@
-POWER BI Dashboard
+# POWER BI-Dashboards
 
 **Insurance Company Performance Dashboard showing policy sales, premium and claim trends, claim ratios, and customer segments over 2014–2018. Highlights indicate the company has been facing high claim ratios and potential losses for the past four years, driven by certain high-claim vehicle categories such as trucks and trailers. Includes visual breakdowns of policy types, claim distribution by usage, gender-based claim patterns, and year-over-year changes in premium vs. claims.**
 
